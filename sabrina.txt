@@ -1,0 +1,3 @@
+git is good to save things
+im not sure how git interfaces with the terminal... strange 
+
