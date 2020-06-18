@@ -1,0 +1,2 @@
+I like how Git allows me to share my work easily with others
+There's nothing I explicitly dislike about Git because it makes everything better
