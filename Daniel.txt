@@ -1,0 +1,4 @@
+I like that it allows you see changes to what you've done so clearly as well as changes others have made.
+
+I do not like that you need to re-add files you edit after you've already added them in order for the commit to save those changes.
+
