@@ -1,0 +1,2 @@
+I like that git saves me from code messups
+I don't like how easy it is to mess up my HEAD
