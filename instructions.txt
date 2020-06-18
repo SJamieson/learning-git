@@ -1,0 +1,4 @@
+1. Create a file in this directory called "YOUR_FIRST_NAME.txt"
+2. For the first line of the file, please write one thing you like about Git
+3. For the second line of the file, please write one thing you are confused about or don't like about Git
+4. Don't forget to save the file afterwards!
