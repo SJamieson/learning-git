@@ -1,0 +1,2 @@
+I like how you can track changes and comments with log
+It's a bit confusing to have to commit and add the first time
