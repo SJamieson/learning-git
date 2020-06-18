@@ -1,0 +1,2 @@
+Git helps me collaborate on complex projects
+Trying to use rebase workflows vs normal workflows is kinda confusing!
