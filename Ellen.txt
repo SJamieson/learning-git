@@ -1,0 +1,3 @@
+1. I like that you can track your changes easily
+2. I don't like using nano as an editor to save changes with git. 
+Also, I fee like I might accidently save many changes at once. Oops.  
