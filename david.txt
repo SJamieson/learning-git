@@ -1,0 +1,2 @@
+I like how there are only a few steps to update the version.
+I do not like how many times the commands have to be used for multiple files.
