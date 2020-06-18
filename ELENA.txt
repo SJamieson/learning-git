@@ -1,0 +1,2 @@
+i like that i can access git from my terminal
+i don't know how to revert to previous commits yet
