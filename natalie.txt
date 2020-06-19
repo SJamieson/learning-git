@@ -1,0 +1,3 @@
+I like how it allows me to keep tabs on my edits and changes.
+I am still relatively confused about the workflow/process of git status,
+git add, and git commit.

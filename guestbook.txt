@@ -1,15 +1,20 @@
 WELCOME! PLEASE ENTER YOUR FIRST NAME ON THE FIRST FREE LINE BELOW:
+<<<<<<< HEAD
  - Stewart
  - David 
+=======
+ -David 
+ -Stewart 
+>>>>>>> 52c9f14b99b5f5bd71dcca68c2a8a6ce8c25e132
  - 
  - 
  - 
  -Harriet  
+ -Arianna 
  - 
  - 
  - 
- - 
- - 
+ -Elena 
  - 
  - 
  - 
