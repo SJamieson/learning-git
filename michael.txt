@@ -1,0 +1,2 @@
+I like that git lets me keep track of changes to code
+It's still a little confusing and has a lot of steps
